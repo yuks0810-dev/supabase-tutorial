@@ -7,3 +7,7 @@
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+## 参考にしたサイト
+* https://www.youtube.com/watch?v=hxmJZCMYua0&list=PL4cUxeGkcC9hUb6sHthUEwG7r9VDPBMKO&index=9
+* https://github.com/iamshaunjp/Supabase-Tutorial-for-Beginners
